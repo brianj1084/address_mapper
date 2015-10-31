@@ -30,3 +30,6 @@ www/libs
 
 www/css/styles.css
 www/css/styles.min.css
+
+www/js/app.js
+www/js/app.js.map
