@@ -28,3 +28,5 @@ node_modules
 
 www/libs
 
+www/css/styles.css
+www/css/styles.min.css
